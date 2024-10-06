@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "id_cliente",
+    "Type": "int"
+  },
+  {
+    "Name": "nombre",
+    "Type": "string"
+  },
+  {
+    "Name": "correo",
+    "Type": "string"
+  },
+  {
+    "Name": "telefono",
+    "Type": "string"
+  }
+]
