@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "id_pedido",
+    "Type": "int"
+  },
+  {
+    "Name": "id_cliente",
+    "Type": "int"
+  },
+  {
+    "Name": "fecha",
+    "Type": "string"  
+  },
+  {
+    "Name": "total",
+    "Type": "decimal"
+  }
+]
