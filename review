@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "id_libro",
+    "Type": "int"
+  },
+  {
+    "Name": "id_cliente",
+    "Type": "int"
+  },
+  {
+    "Name": "puntuacion",
+    "Type": "int"
+  },
+  {
+    "Name": "resena",
+    "Type": "string"
+  },
+  {
+    "Name": "fecha",
+    "Type": "string"  
+  }
+]
