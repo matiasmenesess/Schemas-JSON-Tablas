@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "id_detalle",
+    "Type": "int"
+  },
+  {
+    "Name": "id_pedido",
+    "Type": "int"
+  },
+  {
+    "Name": "id_libro",
+    "Type": "int"
+  },
+  {
+    "Name": "cantidad",
+    "Type": "int"
+  },
+  {
+    "Name": "precio_unitario",
+    "Type": "decimal"
+  }
+]
