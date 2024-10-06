@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "id_libro",
+    "Type": "int"
+  },
+  {
+    "Name": "titulo",
+    "Type": "string"
+  },
+  {
+    "Name": "precio",
+    "Type": "decimal"
+  },
+  {
+    "Name": "id_categoria",
+    "Type": "int"
+  },
+  {
+    "Name": "id_autor",
+    "Type": "int"
+  }
+]
