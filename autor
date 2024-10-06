@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "id_autor",
+    "Type": "int"
+  },
+  {
+    "Name": "nombre",
+    "Type": "string"
+  },
+  {
+    "Name": "nacionalidad",
+    "Type": "string"
+  },
+  {
+    "Name": "fecha_nacimiento",
+    "Type": "string"  
+  }
+]
