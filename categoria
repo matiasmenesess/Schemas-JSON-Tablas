@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "id_categoria",
+    "Type": "int"
+  },
+  {
+    "Name": "nombre",
+    "Type": "string"
+  }
+]
