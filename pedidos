@@ -5,7 +5,7 @@
   },
   {
     "Name": "total",
-    "Type": "decimal"
+    "Type": "string"
   },
   {
     "Name": "id_cliente",
