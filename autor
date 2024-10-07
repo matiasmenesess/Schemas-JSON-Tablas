@@ -1,7 +1,7 @@
 [
   {
     "Name": "id_autor",
-    "Type": "int"
+    "Type": "string"
   },
   {
     "Name": "nombre",
